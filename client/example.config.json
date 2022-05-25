@@ -1,0 +1,14 @@
+{
+  "user": {
+    "username": "abc",
+    "passwd": "123"
+  },
+  "server": {
+    "addr": "1.1.1.1",
+    "port": 2333
+  },
+  "tls": {
+    "key_file": "client.key",
+    "cert_file": "client.crt"
+  }
+}

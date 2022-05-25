@@ -1,0 +1,13 @@
+{
+  "tls": {
+    "cert_file": "server.crt",
+    "key_file": "server.key"
+  },
+  "auth_users": [
+    {
+      "username": "abc",
+      "passwd_hash": "hash of the passwd of user abc"
+    }
+  ],
+  "intranet": "1.1.1.0/24"
+}
