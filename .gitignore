@@ -22,3 +22,4 @@ ssl/
 
 **/*.key
 **/*.crt
+client/build.sh
